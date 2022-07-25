@@ -1,5 +1,5 @@
 #1074 - z
-#시간복잡도 O(1)
+#시간복잡도 O(n)
 # 입력
 n, r, c = map(int, input().split())
 
